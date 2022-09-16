@@ -9,17 +9,9 @@
 
 ## Skills
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
+[<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="NodeJS logo" width="50" height="50" />](https://python.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="50" height="50" />](https://www.javascript.com/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50" height="50" />](https://getbootstrap.com/docs/5.0/)
 
 ## Contact
   

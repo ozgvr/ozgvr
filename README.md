@@ -1,4 +1,10 @@
-# Hi! I'm Ö
+# Hi! I'm Özgür
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akinozgur/)](https://www.linkedin.com/in/akinozgur/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozgurakn14@gmail.com)](mailto:ozgurakn14@gmail.com)
+#### Mainly focused on full-stack web development. Using Python Django backend with Bootstrap front end. Open to learning new technical skills and improving.
+#### 3rd year student of Management Information Systems @ Boğaziçi University
+#### Working as a Backend Developer Intern @ Doğuş Teknoloji
+#### Located in Istanbul, Turkey
 
 ## My Github Statistics 📈
 
@@ -15,13 +21,4 @@
 [<img src="https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="50" height="50" />]
 [<img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" width="50" height="50" />]
 [<img src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="50" height="50" />]
-
-
-## Contact
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akinozgur/)](https://www.linkedin.com/in/akinozgur/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozgurakn14@gmail.com)](mailto:ozgurakn14@gmail.com)
-
-
-⭐️ From [ozgurakinj](https://github.com/ozgurakinj)
 

@@ -19,8 +19,8 @@
 
 ## My Github Statistics 📈
 
-[![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurakinj&count_private=true&bg_color=22272e&border_color=3c434d&text_color=3c434d&title_color=ffffff&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurakinj&card_width=250&langs_count=6&bg_color=22272e&border_color=3c434d&text_color=3c434d&title_color=ffffff&hide_title=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurakinj&count_private=true&bg_color=22272e&border_color=3c434d&text_color=ffffff&title_color=ffffff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurakinj&card_width=250&langs_count=6&bg_color=22272e&border_color=3c434d&text_color=ffffff&title_color=ffffff&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

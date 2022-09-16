@@ -3,8 +3,8 @@
 
 ## My Github Statistics 📈
 
-[![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurakinj&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurakinj&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurakinj&count_private=true&hide_title=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurakinj&card_width=250&langs_count=6&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills

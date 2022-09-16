@@ -1,5 +1,4 @@
-[![HitCount](https://hits.dwyl.com/ozgurakinj/ozgurakinj.svg?style=flat-square)](http://hits.dwyl.com/ozgurakinj/ozgurakinj)
-
+# Hi! I'm Ö
 
 ## My Github Statistics 📈
 
@@ -9,9 +8,14 @@
 
 ## Skills
 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="NodeJS logo" width="50" height="50" />](https://python.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="50" height="50" />](https://www.javascript.com/) 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50" height="50" />](https://getbootstrap.com/docs/5.0/)
+[<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="50" height="50" />]
+[<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" width="50" height="50" />]
+[<img src="https://img.shields.io/badge/-Django-44b78b?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="50" height="50" />]
+[<img src="https://img.shields.io/badge/-Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask" width="50" height="50" />]
+[<img src="https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="50" height="50" />]
+[<img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" width="50" height="50" />]
+[<img src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="50" height="50" />]
+
 
 ## Contact
   

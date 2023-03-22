@@ -11,6 +11,7 @@
 <a><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 <a><img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></a>
 <a><img src="https://img.shields.io/badge/-Django-44b78b?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
+<a><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Django Rest Framework"/></a>
 <a><img src="https://img.shields.io/badge/-Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask" /></a>
 <a><img src="https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 <a><img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></a>

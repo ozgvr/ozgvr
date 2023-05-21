@@ -8,6 +8,7 @@ Frontend web development using ReactJS.
 Mobile development for iOS and Android using React Native, Expo. 
 ###
 Senior student, Management Information Systems @ Boğaziçi University
+###
 Located in Istanbul, Turkey
 
 ## Skills

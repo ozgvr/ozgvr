@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akinozgur/)](https://www.linkedin.com/in/akinozgur/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozgurakn14@gmail.com)](mailto:ozgurakn14@gmail.com)
+### 
 Backend web development using Python Django, NodeJS, PHP
 Frontend web development using ReactJS
 Mobile development for iOS and Android using React Native, Expo

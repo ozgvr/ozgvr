@@ -24,8 +24,8 @@ Located in Istanbul, Turkey
 
 ## My Github Statistics 📈
 
-[![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgurakinj&hide=stars&exclude_repo=ozgurakinj&include_all_commits=true&count_private=true&bg_color=22272e&border_color=3c434d&text_color=ffffff&title_color=ffffff&icon_color=539bf5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurakinj&card_width=250&langs_count=6&bg_color=22272e&border_color=3c434d&text_color=ffffff&title_color=ffffff&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgvr&hide=stars&exclude_repo=ozgvr&include_all_commits=true&count_private=true&bg_color=22272e&border_color=3c434d&text_color=ffffff&title_color=ffffff&icon_color=539bf5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgvr&card_width=250&langs_count=6&bg_color=22272e&border_color=3c434d&text_color=ffffff&title_color=ffffff&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

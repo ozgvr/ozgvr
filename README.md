@@ -3,13 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akinozgur/)](https://www.linkedin.com/in/akinozgur/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozgurakn14@gmail.com)](mailto:ozgurakn14@gmail.com)
 ### 
-Backend web development using Python Django, NodeJS, PHP. 
-Frontend web development using ReactJS. 
-Mobile development for iOS and Android using React Native, Expo. 
+I am a software developer based in Istanbul, Turkey with years of experience and many completed corporate and personal projects in Backend and Frontend web technologies, along with mobile and game development.
 ###
 Senior student, Management Information Systems @ Boğaziçi University
-###
-Located in Istanbul, Turkey
 
 ## Skills
 

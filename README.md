@@ -1,14 +1,10 @@
-# Özgür Akın
+## Hey 👋 I’m [Özgür](https://ozgura.com).
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akinozgur/)](https://www.linkedin.com/in/akinozgur/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozgurakin14@gmail.com)](mailto:ozgurakin14@gmail.com)
-### 
 I am a software developer based in Istanbul, Turkey with years of experience and many completed corporate and personal projects in Backend and Frontend web technologies, along with mobile and game development.
-###
+
 Senior student, Management Information Systems @ Boğaziçi University
 
-## Skills
-
+### Skills
 <a><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 <a><img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></a>
 <a><img src="https://img.shields.io/badge/-Django-44b78b?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
